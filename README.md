@@ -6,7 +6,7 @@
 
 English | [简体中文](./README.zh-CN.md)
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-13F4FB?style=for-the-badge&logoColor=black)](https://feif-l.github.io/claude-code-theme-editor/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-13F4FB?style=for-the-badge&logoColor=black)](https://voidcrowned.github.io/cc-live-theme-editor/)
 &nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-D568E3?style=for-the-badge)](./LICENSE)
 &nbsp;
@@ -22,13 +22,13 @@ English | [简体中文](./README.zh-CN.md)
 
 A **single HTML file** that lets you design a Claude Code color theme visually. Drag color pickers on the right, watch a mock Claude Code terminal update instantly on the left, then export a `theme.json` with one click.
 
-No build step. No dependencies. No server. Open the file (or the [live demo](https://feif-l.github.io/claude-code-theme-editor/)) and start.
+No build step. No dependencies. No server. Open the file (or the [live demo](https://voidcrowned.github.io/cc-live-theme-editor/)) and start.
 
 ## 🚀 Quick start
 
 **Option A — use it online**
 
-👉 **[Open the live editor](https://feif-l.github.io/claude-code-theme-editor/)**
+👉 **[Open the live editor](https://voidcrowned.github.io/cc-live-theme-editor/)**
 
 **Option B — run it locally**
 

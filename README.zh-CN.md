@@ -6,7 +6,7 @@
 
 [English](./README.md) | 简体中文
 
-[![在线体验](https://img.shields.io/badge/▶_在线体验-13F4FB?style=for-the-badge&logoColor=black)](https://feif-l.github.io/claude-code-theme-editor/)
+[![在线体验](https://img.shields.io/badge/▶_在线体验-13F4FB?style=for-the-badge&logoColor=black)](https://voidcrowned.github.io/cc-live-theme-editor/)
 &nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-D568E3?style=for-the-badge)](./LICENSE)
 &nbsp;
@@ -22,13 +22,13 @@
 
 一个**单 HTML 文件**,让你可视化地设计 Claude Code 配色主题。右侧拖调色盘,左侧模拟的 Claude Code 终端实时更新,选好后一键导出 `theme.json`。
 
-无需构建、无依赖、无服务器。打开文件(或 [在线版](https://feif-l.github.io/claude-code-theme-editor/))就能用。
+无需构建、无依赖、无服务器。打开文件(或 [在线版](https://voidcrowned.github.io/cc-live-theme-editor/))就能用。
 
 ## 🚀 快速开始
 
 **方式 A —— 在线用**
 
-👉 **[打开在线编辑器](https://feif-l.github.io/claude-code-theme-editor/)**
+👉 **[打开在线编辑器](https://voidcrowned.github.io/cc-live-theme-editor/)**
 
 **方式 B —— 本地跑**
 
